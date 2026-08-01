@@ -65,3 +65,14 @@ section p{
     font-size:18px;
     margin:12px 0;
 }
+.contact{
+    background:#1a1a1a;
+    padding:30px;
+    margin:20px;
+    border-radius:12px;
+}
+
+.contact p{
+    margin:10px 0;
+    font-size:18px;
+}
